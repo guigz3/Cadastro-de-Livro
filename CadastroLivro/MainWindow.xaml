@@ -31,7 +31,7 @@
             <TextBox x:Name="TxtAutor"/>
         </StackPanel>
 
-        <Button Grid.Row="2" Content="Salvar" Click="BtnSalvar_Click" Width="100" HorizontalAlignment="Left"/>
+        <Button Grid.Row="2" Content="Cadastrar Livro" Click="BtnSalvar_Click" Width="100" HorizontalAlignment="Left"/>
 
         <TextBlock x:Name="TxtMensagem" Grid.Row="3" Margin="0,10,0,0" Foreground="Green"/>
     </Grid>
